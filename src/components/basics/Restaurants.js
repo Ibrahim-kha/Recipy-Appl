@@ -5,8 +5,7 @@ import MenuCard from "./menuCard";
 import Newpage from "./newpage";
 const Restaurant=()=>{
     const [v,setV]=useState(0);
-    const [recipy,setRecipy]=useState("jjghh");
-    const [name,setName]=useState("Delicious");
+    const [recipy,setRecipy]=useState("");
     const [menuData,setmenuData]=useState(Menu);
 
     const filterItem=(Name)=>{
@@ -39,6 +38,7 @@ const Restaurant=()=>{
             </div>
         </nav>
         </div>
+        <div>Click the image to get follow recipy</div>
         <MenuCard menuData={menuData} handle={handle}/>
         
         </>
@@ -58,6 +58,7 @@ const Restaurant=()=>{
             </div>
         </nav>
         </div>
+        <div>Click the image to get follow recipy</div>
         <Newpage recipy={recipy} menuData={menuData} />
         
             </>
