@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Recipy-Appl/static/css/main.20cd1e16.chunk.css",
+    "main.js": "/Recipy-Appl/static/js/main.ef2c891c.chunk.js",
+    "main.js.map": "/Recipy-Appl/static/js/main.ef2c891c.chunk.js.map",
+    "runtime-main.js": "/Recipy-Appl/static/js/runtime-main.24ddde04.js",
+    "runtime-main.js.map": "/Recipy-Appl/static/js/runtime-main.24ddde04.js.map",
+    "static/js/2.ce004e49.chunk.js": "/Recipy-Appl/static/js/2.ce004e49.chunk.js",
+    "static/js/2.ce004e49.chunk.js.map": "/Recipy-Appl/static/js/2.ce004e49.chunk.js.map",
+    "static/js/3.b31e9b86.chunk.js": "/Recipy-Appl/static/js/3.b31e9b86.chunk.js",
+    "static/js/3.b31e9b86.chunk.js.map": "/Recipy-Appl/static/js/3.b31e9b86.chunk.js.map",
+    "index.html": "/Recipy-Appl/index.html",
+    "static/css/main.20cd1e16.chunk.css.map": "/Recipy-Appl/static/css/main.20cd1e16.chunk.css.map",
+    "static/js/2.ce004e49.chunk.js.LICENSE.txt": "/Recipy-Appl/static/js/2.ce004e49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24ddde04.js",
+    "static/js/2.ce004e49.chunk.js",
+    "static/css/main.20cd1e16.chunk.css",
+    "static/js/main.ef2c891c.chunk.js"
+  ]
+}
