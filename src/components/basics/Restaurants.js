@@ -38,7 +38,6 @@ const Restaurant=()=>{
             </div>
         </nav>
         </div>
-        <div>Click the image to get follow recipy</div>
         <MenuCard menuData={menuData} handle={handle}/>
         
         </>
@@ -58,7 +57,6 @@ const Restaurant=()=>{
             </div>
         </nav>
         </div>
-        <div>Click the image to get follow recipy</div>
         <Newpage recipy={recipy} menuData={menuData} />
         
             </>
